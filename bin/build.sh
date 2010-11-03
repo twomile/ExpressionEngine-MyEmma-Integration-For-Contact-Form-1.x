@@ -17,7 +17,7 @@ VERSION=`cat ../version`
 # set build params
 FILES_DIR=$BASE_DIR/www/system
 DOCS_DIR=$BASE_DIR/doc
-ZIP=multisite_search-1.6.x-$VERSION.zip
+ZIP=myemma_contact_integration-1.6.x-$VERSION.zip
 BUILD_DIR=../build
 
 # display status
